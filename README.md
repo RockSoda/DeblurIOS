@@ -1,9 +1,9 @@
 # DeblurIOS
 Demon application on IOS simulator
 
-#Before
+## Before
 ![alt text](https://github.com/RockSoda/DeblurIOS/blob/master/before.png)
 
-#After
+## After
 ![alt text](https://github.com/RockSoda/DeblurIOS/blob/master/after.png)
 
