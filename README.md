@@ -1,5 +1,5 @@
 # DeblurIOS
-Demo application on IOS simulator
+Demo application on an iOS simulator
 
 ## Before
 ![alt text](https://github.com/RockSoda/DeblurIOS/blob/master/before.png)
